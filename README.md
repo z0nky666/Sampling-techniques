@@ -8,3 +8,5 @@ Archive of 3 research papers for my sophomore-year 'Sampling Techniques'course.
 📥[点击下载论文《数学与统计学院24级本科生50米跑成绩估计》 PDF](./数学与统计学院24级本科生50米跑成绩估计.pdf?raw=true)
 <br>
 📥[点击下载论文《河南大学本科生平板使用情况估计》 PDF](./河南大学本科生平板使用情况估计.pdf?raw=true)
+
+❗️📄 版权声明：本仓库内所有论文及调查报告仅供个人学习参考，未经作者允许，严禁抄袭、转载或用于任何商业用途。
